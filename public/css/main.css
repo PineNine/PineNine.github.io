@@ -1,0 +1,42 @@
+body {
+    background-color: #d1ff45;
+}
+
+.row {
+    background-color: #7fffd4;
+    display: flex;
+    height: 300px;
+}
+
+.nav {
+    text-align: center;
+    color: #ffffff;
+    background-color: #121212;
+    position: absolute;
+    height: 100%;
+    width: 17%;
+    
+    left: 0px;
+    top: 0px;
+}
+
+.content {
+    color: #000000;
+    position: absolute;
+    left: 20%;
+}
+
+.button {
+    color: #121212;
+    background-color: #d1ff45;
+    border: none;
+    font-size: larger;
+    position:fixed;
+
+    width: 150px;
+    height: 30px;
+}
+
+.text{
+    color: white;
+}
